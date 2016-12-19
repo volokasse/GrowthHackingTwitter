@@ -1,0 +1,7 @@
+{
+    "consumerKey": "NoQ3EGZUIzQ882rY25ZkJm5NO",
+    "consumerSecret": "HkTZhM55LaN67zwB93wtQ0IqTr5Pfu6wm77bGbUllfXuWxtBE5",
+    "accessToken": "1487872400-4adj1WmA6cbXxWqUnF58smfIkpfCtvBJuSKk0q1",
+    "accessTokenSecret": "udafoulVwWYPCPonZvKAyF23kU33PThXivHH2efl4ekhm",
+    "callBackUrl": "http://localhost/GrowthHackingTwitter/oauth/index.html"
+}
