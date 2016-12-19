@@ -1,0 +1,4 @@
+.DS_Store
+
+reporting/node_modules/*
+reporting/node_modules
